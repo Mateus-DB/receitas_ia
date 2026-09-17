@@ -1,0 +1,1 @@
+{"version":3,"file":"userTypes.js","sourceRoot":"","sources":["../src/userTypes.ts"],"names":[],"mappings":"AAAA,OAAO,CAAC,MAAM,KAAK,CAAC;AAEpB,MAAM,CAAC,MAAM,aAAa,GAAG,CAAC,CAAC,MAAM,CAAC;IAClC,QAAQ,EAAE,CAAC,CAAC,MAAM,EAAE,CAAC,GAAG,CAAC,CAAC,EAAE,EAAE,OAAO,EAAE,wBAAwB,EAAE,CAAC;CAErE,CAAC,CAAA"}
