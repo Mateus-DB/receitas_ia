@@ -5,7 +5,7 @@ import { api } from "../services/api"
 
 interface Mensagens {
     id: number,
-    text: string | any,
+    text: string,
     remetente: "bot" | "usuario"
 }
 const ChatReceita = () => {
